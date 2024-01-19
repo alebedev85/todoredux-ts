@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todoredux-ts/static/css/main.9372c9ae.css",
+    "main.js": "/todoredux-ts/static/js/main.152b0b6f.js",
+    "index.html": "/todoredux-ts/index.html",
+    "main.9372c9ae.css.map": "/todoredux-ts/static/css/main.9372c9ae.css.map",
+    "main.152b0b6f.js.map": "/todoredux-ts/static/js/main.152b0b6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9372c9ae.css",
+    "static/js/main.152b0b6f.js"
+  ]
+}
